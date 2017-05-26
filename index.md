@@ -27,20 +27,17 @@ In addition to these, we have released a standard EEG pre-processing toolbox for
 <a href="http://qusp.io"  align="center"><img src="bigeegconsortium.github.io/qusp-labs-thick-logo-400px.png" align="center" height="100px" ></a>
 </p>
 </div>
-<p>
 <div width = "100%" align = "center" style="float:center; overflow: hidden">
 <p>
 <a href="http://visual.cs.utsa.edu/"  align="center" ><img src="bigeegconsortium.github.io/utsa_logo.png" align="center" height="55px" ></a>
 </p>
 </div>
-<p>
 <div width = "100%" align = "center" style="float:left">
 <p>
 <a href="http://sccn.ucsd.edu"  align="center"><img src="bigeegconsortium.github.io/ucsd-logo.png" align="centeer" height="50px" ></a>
 </p>
 </div>
 </div>
-<p/>
 ***
 BigEEG development is supported by The Cognition and Neuroergonomics Collaborative Technology Alliance (CaN CTA) program of U.S Army Research Laboratory (ARL).
 <div width = "100%">
