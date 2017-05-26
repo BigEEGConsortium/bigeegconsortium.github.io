@@ -22,6 +22,11 @@ In addition to these, we have released a standard EEG pre-processing toolbox for
 
 ## Institutions
 
+<div width = "100%"  align = "center" style="float:center">
+<a href="http://qusp.io"  align="center"><img src="bigeegconsortium.github.io/combined_logos.png" align="center" ></a>
+</div>
+
+
 <div width = "100%">
 <div width = "100%" align = "center" style="float:left">
 <a href="http://qusp.io"  align="center"><img src="bigeegconsortium.github.io/qusp-labs-thick-logo-400px.png" align="center" height="100px" ></a>
