@@ -27,9 +27,6 @@ In addition to these, we have released a standard EEG pre-processing toolbox for
 </div>
 ***
 BigEEG development is supported by The Cognition and Neuroergonomics Collaborative Technology Alliance (CaN CTA) program of U.S Army Research Laboratory (ARL).
-<div width = "100%">
-<div width = "100%" align = "center" style="float:left">
+<div width = "100%" align = "center" style="float:center">
 <a href="http://www.arl.army.mil/"  align="center"><img src="bigeegconsortium.github.io/ARL_logo.png" align="centeer" height="50px" ></a>
 </div>
-</div>
-<p/>
