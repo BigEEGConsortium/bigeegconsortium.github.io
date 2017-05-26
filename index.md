@@ -27,7 +27,7 @@ In addition to these, we have released a standard EEG pre-processing toolbox for
 </div>
 
 - [Qusp Labs](https://qusp.io)
-- [University of Texas at San Antonio](https://utsa.edu)
+- [University of Texas at San Antonio](http://visual.cs.utsa.edu/)
 - [Swartz Center for Computational Neuroscience, University of California, San Diego](http://sccn.ucsd.edu)
 
 ***
