@@ -29,12 +29,12 @@ In addition to these, we have released a standard EEG pre-processing toolbox for
 
 <a href="http://visual.cs.utsa.edu/"  align="center" ><img src="bigeegconsortium.github.io/utsa_logo.png" align="center" height="55px" ></a>
 
-</div><br><p>
+</div><br></p><p>
 <div width = "100%" align = "center" style="float:left">
 
 <a href="http://sccn.ucsd.edu"  align="center"><img src="bigeegconsortium.github.io/ucsd-logo.png" align="centeer" height="50px" ></a>
 
-</div>
+</div></p>
 </div>
 ***
 BigEEG development is supported by The Cognition and Neuroergonomics Collaborative Technology Alliance (CaN CTA) program of U.S Army Research Laboratory (ARL).
