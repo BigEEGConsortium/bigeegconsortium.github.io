@@ -16,7 +16,7 @@ For describing experimental and real-world events. For more information please v
 
 For encapsulating EEG study meta-data. For more information please visit [www.eegstudy.org](http://www.eegstudy.org)
 
-For list of studies currently available in ESS format please visit: [www.studycatalog.org](www.studycatalog.org)
+For list of studies currently available in ESS format please visit: [www.studycatalog.org](http://www.studycatalog.org)
 
 In addition to these, we have released a standard EEG pre-processing toolbox for noisy channel detection and robust referencing, called PREP: [http://vislab.github.io/EEG-Clean-Tools/](http://vislab.github.io/EEG-Clean-Tools/)
 
