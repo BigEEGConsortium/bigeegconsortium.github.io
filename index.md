@@ -21,10 +21,13 @@ For list of studies currently available in ESS format please visit: www.studycat
 In addition to these, we have released a standard EEG pre-processing toolbox for noisy channel detection and robust referencing, called PREP: http://vislab.github.io/EEG-Clean-Tools/
 
 ## Institutions
+
 <div width = "100%">
+<p>
 <div width = "100%" align = "center" style="float:left">
 <a href="http://qusp.io"  align="center"><img src="bigeegconsortium.github.io/qusp-labs-thick-logo-400px.png" align="center" height="100px" ></a>
-</div><br><p>
+</div>
+</p>
 <div width = "100%" align = "center" style="float:center; overflow: hidden">
 
 <a href="http://visual.cs.utsa.edu/"  align="center" ><img src="bigeegconsortium.github.io/utsa_logo.png" align="center" height="55px" ></a>
