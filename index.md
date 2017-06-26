@@ -10,7 +10,7 @@ Currently, there are two major standards being promoted by the consortium:
 
 #### Hierarchical Event Descriptor (HED) tags
 
-For describing experimental and real-world events. For more information please visit www.hedtags.org
+For describing experimental and real-world events. For more information please visit www.hedtags.org(http://www.hedtags.org)
 
 #### EEG Experiment Schema (ESS)
 
