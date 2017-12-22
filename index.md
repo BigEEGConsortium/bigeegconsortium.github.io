@@ -23,7 +23,7 @@ In addition to these, we have released a standard EEG pre-processing toolbox for
 ## Institutions
 
 <div width = "100%"  align = "center" style="float:center">
-<img src="bigeegconsortium.github.io/combined_logos.png" align="center" >
+<img src="bigeegconsortium.github.io/combined_logos_2.png" align="center" >
 </div>
 
 - [Intheon Labs](https://intheon.io)
